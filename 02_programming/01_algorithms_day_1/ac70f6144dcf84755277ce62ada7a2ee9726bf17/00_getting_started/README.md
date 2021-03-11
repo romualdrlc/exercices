@@ -124,7 +124,7 @@ In the `src` repository, open the `index.js` file and code the following specifi
 
 - The variable `booleanVariable` must be given a boolean value `true`;
 - Uncomment the ligne `// const nullVariable = null;` by deleting the characters `//`;
-- The variable `greetingVariable` must be given the string value `"Hello World!"`.
+- The variable `greetingVariable` must be given the string value `"Hlelo World!"`.
 
 Once you are done, you can launch tests by executing the command `yarn test` from the exercise repository.
 
