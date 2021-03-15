@@ -1,19 +1,13 @@
 function filter(array, str) {
   // Your code here
-  let tab = [];
-  for (let i = 0; i <= array.length; i++) {
-    if (array[i]%2 === 0) {
-      if (str === "even") {
-        tab.push(i);
-      }
-    }else if (array[i]%2 !== 0) {
-      if (str === "odd") {
-        tab.push(i);
-      }
-    }
-    return tab;
+  let tabimpair = [];
+  for (let i = 0; i <= array[2]; i++) {  
+    tabimpair.push(array[i]);
   }
+  console.log(tabimpair);
+  return tabimpair;
 }
+
 
 // do not remove this line, it is for tests
 module.exports = filter;
