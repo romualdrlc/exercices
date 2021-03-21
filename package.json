@@ -1,0 +1,12 @@
+{
+  "name": "awesome-dev-jokes",
+  "version": "1.0.0",
+  "description": "faire des blagues",
+  "main": "index.js",
+  "repository": "git@github.com:romualdrlc/exercices.git",
+  "author": "romuald <romuald.lecorroller@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "awesome-dev-jokes": "^1.0.3"
+  }
+}
