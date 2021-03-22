@@ -1,42 +1,26 @@
 const humanFactory = (humanData = {}) => {
   // code here
-  /*if humandata est Vide
-    on retourne la fiche john doe
-  else
-    on retourne la fiche jane doe*/
-
-  const John = {
-    firstName: "John",
+  const human = {
+    firstName: humanData.genre === "female" ? "Jane" : "John",
     lastName: "Doe",
     genre: "male",
     job: "unemployed",
-    fullname: function () {
-      console.log(`${this.firstName} ${this.lastName}`);
-    },
-    introduction: function () {
-      console.log(`Hello! My name is ${this.firstName} ${this.lastName}`);
-    },
+    fullname: function() {
+      return `${this.firstName} ${this.lastName}`;
+    },// "John Doe"
+    introduction: function() {
+      return `Hello! My name is ${this.fullname()}.`;
+    }, // "Hello! My name is John Doe."
   };
-  const Jane = {
-    firstName: "Jane",
-    lastName: "Doe",
-    genre: "female",
-    job: "unemployed",
-    fullname: function () {
-      console.log(`${this.firstName} ${this.lastName}`);
-    },
-    introduction: function () {
-      console.log(`Hello! My name is ${this.firstName} ${this.lastName}`);
-    }
-    
-  };
-  
+  return {...human,...humanData};
 };
 
 const createHumans = (humans) => {
   // code here
-  
+  return humans.map(humanFactory);
+  //return humans.map(human => humanFactory(human));
 };
+
 
 module.exports = {
   humanFactory,
