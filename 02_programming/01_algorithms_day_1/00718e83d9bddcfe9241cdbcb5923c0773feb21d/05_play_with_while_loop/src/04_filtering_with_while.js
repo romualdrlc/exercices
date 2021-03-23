@@ -2,12 +2,30 @@
 //
 // -  Create an array called `litteralDigits` from `zero` to `nine` where each array entry is a spelled-out number;
 // -  Using `length`, write on `stdout` each odd values of the table.
-const litteralDigits = ["zero","one","two","three","four","five","six","seven","eight","nine"];
-const test = [0,1,2,3,4,5,6,7,8,9];
-let i = 0;
-let newTab =[];
+let litteralDigits = ["zero","one","two","three","four","five","six","seven","eight","nine"];
 
-while (i < test.length) {
-  newTab = test.filter(valeur => valeur%2===1 ? true : false);
+let i = 0;
+
+while (i < litteralDigits.length) {
+  if (litteralDigits === "zero" || litteralDigits === "two" || litteralDigits === "four" || litteralDigits === "six" || litteralDigits === "eight") {
+    litteralDigits.slice(i);
+  }
+  console.log(litteralDigits);
   i++;
 }
+
+
+// while (i < litteralDigits.length) {
+//   if (litteralDigits === "zero") {
+//     litteralDigits.shift();
+//   }else if (litteralDigits === "two") {
+//     litteralDigits.shift();
+//   }else if (litteralDigits === "four") {
+//     litteralDigits.shift();
+//   }else if (litteralDigits === "six") {
+//     litteralDigits.shift();
+//   }else if (litteralDigits === "eight") {
+//     litteralDigits.shift();
+//   }
+//   console.log(litteralDigits[i]);
+// }
