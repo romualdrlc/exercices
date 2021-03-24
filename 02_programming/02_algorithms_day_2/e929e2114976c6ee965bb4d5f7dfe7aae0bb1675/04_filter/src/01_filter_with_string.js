@@ -1,12 +1,20 @@
+let tabodd =[];
+let tabeven =[];
+
 function filter(array, str) {
   // Your code here
-  let tabimpair = [];
-  for (let i = 0; i <= array[2]; i++) {  
-    tabimpair.push(array[i]);
+  for(let i = 0; i < array.length; i++) {
+    if (array[i]%2 !== 0) {
+      tabodd.push(i);
+    }
+    else {
+      tabeven.push(i);
+    }
   }
-  console.log(tabimpair);
-  return tabimpair;
 }
+console.log(tabeven);
+console.log(tabodd);
+
 
 
 // do not remove this line, it is for tests
