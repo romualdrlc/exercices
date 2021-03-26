@@ -32,12 +32,16 @@ class OrangeTree extends Tree {
     if (this.age < 50) {
       return this.alive = true;
     }else if (result < this.age) {
-      return this.alive = true;
-    }else if(result > this.age) {
       return this.alive = false;
-    }else if (this.age >= 100) {
+    }else if (this.age >= 100 || result >= 100) {
       return this.alive = false;
     }
+  //   // }else if(result > this.age) {
+  //     return this.alive = true;
+  //   }
+  //  }else if (this.age >= 100 || result >= 100) {
+  //   //   return this.alive = false;
+  //   // }
   }
 
 
