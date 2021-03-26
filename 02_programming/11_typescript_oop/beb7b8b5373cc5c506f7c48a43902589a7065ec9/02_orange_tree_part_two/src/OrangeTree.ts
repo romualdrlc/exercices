@@ -30,14 +30,13 @@ class OrangeTree extends Tree {
   isAlive(): boolean {
     const result = Math.random() * (101 - 50) + 50;
     if (this.age < 50) {
-      return true;
+      return this.alive = true;
     }else if (result < this.age) {
-      if (100 - result )
-      return false;
+      return this.alive = true;
     }else if(result > this.age) {
-      return true; 
+      return this.alive = false;
     }else if (this.age >= 100) {
-      return false;
+      return this.alive = false;
     }
   }
 
