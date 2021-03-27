@@ -1,5 +1,3 @@
-// import { match } from "assert";
-// import { threadId } from "worker_threads";
 import { Tree } from "./Tree";
 
 // Code your class here.
