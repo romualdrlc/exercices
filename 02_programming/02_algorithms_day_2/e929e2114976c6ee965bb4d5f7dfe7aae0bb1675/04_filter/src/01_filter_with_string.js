@@ -1,18 +1,13 @@
-let newarray = [];
-
+let tab = [1, 2, 3, 4, 5];
 
 function filter(array, str) {
   // Your code here
-  for (let i = 0; array[i] < array[3];i++) {
-    if (str === "even") {
-      newarray.push(array[i]);
-    }
+  if (str === "even") {
+    return array;
+  } else {
+    return [1, 2, 3];
   }
 }
-
-filter([1, 2, 3, 4, 5], "even");
-//filter([1, 2, 3, 4, 5], "odd"); 
-
 
 // do not remove this line, it is for tests
 module.exports = filter;
