@@ -14,4 +14,4 @@ export interface GithubProject extends ProjectInformation {
 export type PresentationRepo = {
   name: string;
   url: string;
-}
+};
