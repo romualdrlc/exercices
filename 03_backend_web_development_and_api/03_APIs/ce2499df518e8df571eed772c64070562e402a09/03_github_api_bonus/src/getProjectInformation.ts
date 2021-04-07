@@ -1,7 +1,18 @@
-import { ProjectInformation } from "./types";
+import { ProjectInformation, GithubProject } from "./types";
 import fetch from "node-fetch";
 
-function getProjectInformation(url: string): Promise<ProjectInformation[]> {
+function extracturl(urlChooseByOwner: GithubProject): ProjectInformation {
+  const toto = {
+    description: urlChooseByOwner.description,
+    language: urlChooseByOwner.language,
+    subscribers_count: urlChooseByOwner.subscribers_count,
+    stargazers_count: urlChooseByOwner.stargazers_count,
+    git_url: urlChooseByOwner.git_url,
+  };
+  return toto;
+}
+
+function getProjectInformation(url: string): Promise<ProjectInformation> {
   // code the function here
   return fetch(`${url}`, {
     method: "GET",
@@ -13,13 +24,7 @@ function getProjectInformation(url: string): Promise<ProjectInformation[]> {
       return response.json();
     })
     .then((urlChooseByOwner) => {
-      return [
-        urlChooseByOwner.description,
-        urlChooseByOwner.language,
-        urlChooseByOwner.subscribers_count,
-        urlChooseByOwner.stargazers_count,
-        urlChooseByOwner.git_url,
-      ];
+      return extracturl(urlChooseByOwner);
     });
 }
 

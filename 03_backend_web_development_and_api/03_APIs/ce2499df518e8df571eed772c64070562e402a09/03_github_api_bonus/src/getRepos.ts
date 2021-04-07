@@ -1,6 +1,13 @@
 import fetch from "node-fetch";
 import { PresentationRepo } from "./types";
 
+function extractRepo(afficheRepo: PresentationRepo[]): PresentationRepo[] {
+  const newArray = afficheRepo.map((repo) => {
+    return { name: repo.name, url: repo.url };
+  });
+  return newArray;
+}
+
 function getRepos(url: string): Promise<PresentationRepo[]> {
   // code the function here
   return fetch(`${url}`, {
@@ -13,7 +20,7 @@ function getRepos(url: string): Promise<PresentationRepo[]> {
       return response.json();
     })
     .then((afficheRepo) => {
-      return [afficheRepo.name, afficheRepo.url];
+      return extractRepo(afficheRepo);
     });
 }
 
