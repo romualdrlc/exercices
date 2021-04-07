@@ -8,9 +8,10 @@
 // ****
 // *****
 // ```
-let tab = [];
-const lenght = tab.length;
-for (let i= 0; i < lenght; i++) {
-  tab[i].join("*");
+
+let str = "";
+
+for (let i = 0; i < 5; i++) {
+  console.log((str += "*"));
+  ("\n");
 }
-console.log(tab);
