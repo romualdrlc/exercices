@@ -7,14 +7,22 @@
 //    **
 //     *
 // ```
-let str = "";
-let n = 5;
-for (let i = n; i > 0; i--) {
-  for (let j = n - i; j > 0; j--) {
-    console.log(" ");
-    for (let j = 0; j < i; j++) {
-      console.log("*");
+let line = [];
+let tabFinal = [];
+let tab2 = [];
+for (let j = 0; j < 5; j++) {
+  line = [];
+  for (let i = 0; i < 5; i++) {
+    if (j <= i) {
+      line.push("*");
+    } else {
+      line.push(" ");
     }
+    //console.log({ j }, { i }, line);
   }
-  console.log("\n");
+  line = line.join("");
+  console.log(line);
 }
+//tab2 = tabFinal[0];
+
+//console.log(tabFinal);

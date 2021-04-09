@@ -6,9 +6,7 @@ const readcode = require("./readcode");
 let studentCode;
 beforeAll(() => {
   // Loads the student's code
-  studentCode = readcode(
-    path.resolve(__dirname, "../src/04_inverted_right_triangle.js")
-  );
+  studentCode = readcode(path.resolve(__dirname, "../src/04_inverted_right_triangle.js"));
   return studentCode;
 });
 
