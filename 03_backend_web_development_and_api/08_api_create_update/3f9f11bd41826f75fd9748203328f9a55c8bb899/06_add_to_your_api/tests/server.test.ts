@@ -8,7 +8,7 @@ import games from "../src/scripts/games.json";
 
 let server: Server;
 let mongoClient: MongoClient;
-
+jest.setTimeout(20000);
 beforeEach((done) => {
   initDB().then((client) => {
     mongoClient = client;
@@ -73,19 +73,15 @@ describe("/games/:game_slug endpoint", () => {
     expect.assertions(1);
     const randomGame = games[Math.floor(Math.random() * games.length)];
 
-    return fetch(`http://localhost:3030/games/${randomGame.slug}`).then(
-      (response) => {
-        expect(response.status).toBe(200);
-      }
-    );
+    return fetch(`http://localhost:3030/games/${randomGame.slug}`).then((response) => {
+      expect(response.status).toBe(200);
+    });
   });
 
   it("Should respond with a 404 HTTP code when the game exist", () => {
     expect.assertions(1);
 
-    return fetch(
-      "http://localhost:3030/games/this-game-should-not-exist-really"
-    ).then((response) => {
+    return fetch("http://localhost:3030/games/this-game-should-not-exist-really").then((response) => {
       expect(response.status).toBe(404);
     });
   });
@@ -106,21 +102,17 @@ describe("/platforms/:platform_slug endpoint", () => {
   it("Should respond with a 200 HTTP code", () => {
     expect.assertions(1);
 
-    const randomPlatform =
-      games[Math.floor(Math.random() * games.length)].platform.slug;
+    const randomPlatform = games[Math.floor(Math.random() * games.length)].platform.slug;
 
-    return fetch(`http://localhost:3030/platforms/${randomPlatform}`).then(
-      (response) => {
-        expect(response.status).toBe(200);
-      }
-    );
+    return fetch(`http://localhost:3030/platforms/${randomPlatform}`).then((response) => {
+      expect(response.status).toBe(200);
+    });
   });
 
   it("Should always respond with an array", () => {
     expect.assertions(1);
 
-    const randomPlatform =
-      games[Math.floor(Math.random() * games.length)].platform.slug;
+    const randomPlatform = games[Math.floor(Math.random() * games.length)].platform.slug;
 
     return fetch(`http://localhost:3030/platforms/this-platform-does-not-exist`)
       .then((response) => response.json())
@@ -133,9 +125,7 @@ describe("/platforms/:platform_slug endpoint", () => {
     expect.assertions(1);
 
     const randomPlatform = games[0].platform.slug;
-    const gamesForThatPlatform = games.filter(
-      (game) => game.platform.slug === randomPlatform
-    );
+    const gamesForThatPlatform = games.filter((game) => game.platform.slug === randomPlatform);
 
     return fetch(`http://localhost:3030/platforms/${randomPlatform}`)
       .then((response) => response.json())
@@ -149,8 +139,7 @@ describe("/platforms endpoint", () => {
   it("Should respond with a 200 HTTP code", () => {
     expect.assertions(1);
 
-    const randomPlatform =
-      games[Math.floor(Math.random() * games.length)].platform.slug;
+    const randomPlatform = games[Math.floor(Math.random() * games.length)].platform.slug;
 
     return fetch(`http://localhost:3030/platforms`).then((response) => {
       expect(response.status).toBe(200);

@@ -1,3 +1,5 @@
+import { json } from "body-parser";
+import { response } from "express";
 import { Collection } from "mongodb";
 
 export type Game = {
@@ -66,5 +68,9 @@ export class GameModel {
           slug: platform.slug,
         }));
       });
+  }
+
+  create(game: Game): Promise<unknown> {
+    return this.collection.insertOne(game);
   }
 }
