@@ -11,7 +11,7 @@ function getConfig(config) {
     },
   };
 
-  return /** Complete here */;
+  return; /** Complete here */
 }
 
 function logInfos(user) {

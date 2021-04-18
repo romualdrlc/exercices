@@ -1,4 +1,4 @@
-// Here are some examples 
+// Here are some examples
 
 const multipleProfiles = {
   customer: {
@@ -16,7 +16,7 @@ const multipleProfiles = {
       city: "San Francisco",
     },
   },
-}
+};
 
 /*
 Should be cleaned this way => 
@@ -26,19 +26,35 @@ Should be cleaned this way =>
   address: { street: '2640 Steiner Street', city: 'San Francisco' },
   item: 'Water bottles'
 }
-*/ 
+*/
 
-let storageHell = [["ballistic vest", "sword"], [], ["IPad", "IPhone"], ["GameBoy color"], ["Nes", "donkey kong 64"], ["hades pc game"], ["Apex Legends Starter Pack", "LG 5K 27p screen"], ["Levi's jean"], ["Coffee Machine", "Azelad"]];
+let storageHell = [
+  ["ballistic vest", "sword"],
+  [],
+  ["IPad", "IPhone"],
+  ["GameBoy color"],
+  ["Nes", "donkey kong 64"],
+  ["hades pc game"],
+  ["Apex Legends Starter Pack", "LG 5K 27p screen"],
+  ["Levi's jean"],
+  ["Coffee Machine", "Azelad"],
+];
 // Should be cleaned this way => ["ballistic vest", "sword", "IPad", "IPhone", "GameBoy color", "Nes", "donkey kong 64", "hades pc game", "Apex Legends Starter Pack", "LG 5K 27p screen", "Levi's jean", "Coffee Machine", "Azelad"]
 
-function customerProfile() {
+function customerProfile(objet) {
   // Code your function here
+  return {
+    firstName: multipleProfiles.customer.firstName,
+    lastName: multipleProfiles.customer.lastName,
+    address: multipleProfiles.delivery.address,
+    item: multipleProfiles.delivery.item,
+  };
 }
 
-function formatStorage() {
+function formatStorage(array) {
   // Code your function here
+  return array.reduce((tab, index) => tab.concat(index), []);
 }
-
 
 // Feel free to uncomment those, or even create more to try everything you do :
 

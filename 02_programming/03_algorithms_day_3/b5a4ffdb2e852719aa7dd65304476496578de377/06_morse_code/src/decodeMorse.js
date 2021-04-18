@@ -37,8 +37,19 @@ const MORSE_CODE = {
   "----.": "9",
 };
 
-const decodeMorse = () => {
+const decodeMorse = (string) => {
   // Code here
+  let phraseDecode = "";
+
+  return string
+    .split("   ")
+    .map((a) =>
+      a
+        .split(" ")
+        .map((b) => MORSE_CODE[b])
+        .join(""),
+    )
+    .join(" ");
 };
 
 // Leave line below for tests to work properly
