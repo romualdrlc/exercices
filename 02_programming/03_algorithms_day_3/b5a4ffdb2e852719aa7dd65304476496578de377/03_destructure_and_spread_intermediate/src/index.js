@@ -20,14 +20,19 @@ let student = {
 
 let developer = {
   // code here
+  ...student,
+  ...knowledge,
 };
 
 
 
 let application = ["bug", "code", "code", "code", "code", "code", "code", "code", "code"];
 
-
+let code = "code";
+let bug = "bug";
 // code here
+[bug, ...code] = application;
+console.log(code);
 
 
 module.exports = {

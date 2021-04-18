@@ -1,13 +1,14 @@
 function joinArray(tab, carac) {
   // Code your function here.
-  const tabvide = [];
-  tab.reduce((newtab, index) => {
-    tab.forEach((element) => {
-      newtab.push(tab[element] + carac);
-    });
-    console.log(newtab);
-    return newtab;
-  }, []);
+  let string = "";
+  return tab.reduce((newtab, value, index) => {
+    if (index < tab.length - 1) {
+      string += value + carac;
+    } else {
+      string += value;
+    }
+    return string;
+  }, "");
 }
 
 // ⚠ Do not remove me ! It's for tests

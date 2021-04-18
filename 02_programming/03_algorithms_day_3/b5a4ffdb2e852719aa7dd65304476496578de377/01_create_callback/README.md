@@ -10,9 +10,7 @@ You then have to conform to that code and build the callback to obtain the resul
 Sometimes, manually formatting code is a real pain, for example, we don't want to see that:
 
 ```js
-const user = {lastName: 'Elton',firstName:"John", address:
-  {city: "London"} 
-  }
+const user = { lastName: "Elton", firstName: "John", address: { city: "London" } };
 ```
 
 but instead we want that:
@@ -45,6 +43,7 @@ In the **`src/callback.js` file**, write a `sayHello` **arrow function**. It sho
 
 ```js
 "Hello, Spartacus";
+
 ```
 
 ### Run the code
