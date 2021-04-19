@@ -1,0 +1,79 @@
+.info {
+  color: black;
+  text-align: center;
+  text-shadow: -1px -1px 1px #aaa, 0px 4px 1px rgba(0, 0, 0, 0.5),
+    4px 4px 5px rgba(0, 0, 0, 0.7), 0px 0px 7px rgba(0, 0, 0, 0.4);
+  line-height: 1.5;
+
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 30px;
+  font-style: italic;
+  font-family: times, serif;
+}
+
+.collant {
+  position: center;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #aaa3d6;
+  border: 3px solid #1a4cb8;
+  font-size: 20px;
+  font-style: italic;
+  font-family: times, serif;
+  text-align: center;
+}
+h1 {
+  color: black;
+  text-align: center;
+  text-shadow: -1px -1px 1px #aaa, 0px 4px 1px rgba(0, 0, 0, 0.5),
+    4px 4px 5px rgba(0, 0, 0, 0.7), 0px 0px 7px rgba(0, 0, 0, 0.4);
+}
+p {
+  font-style: italic;
+  font-family: times, serif;
+}
+
+h2 {
+  color: brown;
+  text-align: center;
+}
+
+.roundedImage {
+  overflow: hidden;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  width: 150;
+  height: 150;
+}
+
+body {
+  background-image: url(fondecran.jpeg);
+  background-size: cover;
+}
+
+.liresteCv {
+  text-align: left;
+}
+
+#un {
+  position: fixed;
+  top: 80px;
+  left: 10px;
+}
+.outer {
+  width: 500px;
+  height: 300px;
+  overflow: scroll;
+  padding-left: 150px;
+  font-size: 1.5em;
+}
+
+li {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
