@@ -1,0 +1,12 @@
+.collant {
+  position: left;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #dd0a3f;
+  border: 3px solid #1a4cb8;
+  font-size: 20px;
+  font-style: italic;
+  font-family: times, serif;
+  text-align: left;
+}
