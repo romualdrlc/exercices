@@ -25,7 +25,7 @@ const agg = [
 ];
 
 MongoClient.connect(
-  "mongodb+srv://romualdrlc:3005Sandrine%21@cluster0.bj3zp.mongodb.net/modelsWithMongo?authSource=admin&replicaSet=atlas-39ywk4-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
+  "mongodb+srv://romualdrlc:<password>cluster0.bj3zp.mongodb.net/modelsWithMongo?authSource=admin&replicaSet=atlas-39ywk4-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
   { useNewUrlParser: true, useUnifiedTopology: true },
   function (connectErr, client) {
     assert.equal(null, connectErr);
