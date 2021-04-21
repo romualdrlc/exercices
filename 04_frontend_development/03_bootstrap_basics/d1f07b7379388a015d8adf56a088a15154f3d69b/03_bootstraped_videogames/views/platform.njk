@@ -1,0 +1,11 @@
+{% extends "layout.njk" %} {% block content %}
+
+<h1><p class="text-center">liste de platformes</p></h1>
+<ul>
+  {% for platform in platforms %}
+  
+    <li class="list-group-item"><img src="{{ platform.cover }}" /><a href="/platforms/{{ platform.slug }}"> {{ platform.name }}</a></li>
+  
+  {% endfor %}
+</ul>
+{% endblock %}

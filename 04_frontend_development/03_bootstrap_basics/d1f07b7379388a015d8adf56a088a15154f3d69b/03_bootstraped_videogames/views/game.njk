@@ -1,0 +1,15 @@
+{% extends "layout.njk" %}
+
+{% block content %}
+
+ <h1><p class="text-center">Voir les infos du jeu selectionné !!  </p></h1>
+   
+   <div class="text-center">
+      <img src="{{game.cover_url}}" class="rounded" alt="...">
+   </div>
+   <p class="text-center">{{game.name}}</p>
+   <p>{{game.summary}}</p>
+ 
+ 
+
+{% endblock %}

@@ -1,0 +1,11 @@
+{% extends "layout.njk" %} {% block content %}
+
+<h1><p class="text-center">liste des jeux pour cette platforme</p></h1>
+<ul>
+  {% for platform in gamesForPlatform %}
+  <li class="list-group-item">
+    <img src="{{ platform.cover }}" />  {{ platform.name }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}
