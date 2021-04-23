@@ -1,0 +1,23 @@
+{% extends "layout.njk" %} {% block content %}
+<h1>{{ game.name }}</h1>
+
+<p>{{ game.summary }}</p>
+
+<img src="{{ game.cover_url }}" />
+
+<form method="POST" action="/games/{{ game.slug }}/comments">
+  <div>
+    <input type="text" name="username" placeholder="Username :" />
+  </div>
+  <div>
+    <textarea name="message" placeholder="Enter your comment for this game :"></textarea>
+  </div>
+  <button type="submit">Send comment</button>
+</form>
+
+<h4>Your comment</h4>
+{% for comment in game.comments %}
+
+<p>{{ comment.name }}</p>
+<p>{{ comment.comment }}</p>
+{% endfor %} {% endblock %}

@@ -1,0 +1,19 @@
+<h1>Games</h1>
+<ul>
+  {% for game in games %}
+  <li>
+    <a href="/games/{{ game.slug }}">{{ game.name }}</a>
+  </li>
+  {% endfor %}
+</ul>
+<form method="POST" action="/comments">
+  <div>
+    <label>Username :</label>
+    <input type="text" name="username" />
+  </div>
+  <div>
+    <label>Enter your comment for this game :</label>
+    <textarea name="message"></textarea>
+  </div>
+  <button type="submit">Send comment</button>
+</form>

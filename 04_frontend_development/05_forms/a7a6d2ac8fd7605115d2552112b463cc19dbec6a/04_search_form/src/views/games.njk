@@ -1,0 +1,16 @@
+<h1>Games</h1>
+<ul>
+  {% for game in games %}
+    <li>
+      <a href="/games/{{ game.slug }}">{{ game.name }}</a>
+    </li>
+  {% endfor %}
+</ul>
+<p>
+  <form action="/search" method="get">
+  <div>
+    <input type="search" id="maRecherche" name="q">
+    <button>Rechercher</button>
+  </div>
+</form>
+</p>
