@@ -11,7 +11,9 @@ function getConfig(config) {
     },
   };
 
-  return; /** Complete here */
+  const {
+    publisher: { name = config },
+  } = config;
 }
 
 function logInfos(user) {
@@ -30,7 +32,7 @@ function logInfos(user) {
     address: { city, country },
   } = user; // Change here
 
-  console.log(`${firstName} ${lastName} lives in ${city}, ${country}.`);
+  console.log(`${user.firstName} ${user.lastName} lives in ${user.adress.city}, ${user.adress.country}.`);
 }
 
 module.exports = {
