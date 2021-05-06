@@ -10,10 +10,15 @@ function getConfig(config) {
       diskSpace: 20,
     },
   };
-
-  const {
-    publisher: { name = config },
-  } = config;
+  const updatedUser = {
+    ...config,
+    hardware: {
+      ...config.hardware,
+      memory: 2,
+      diskSpace: 20,
+    },
+  };
+  return updatedUser;
 }
 
 function logInfos(user) {
@@ -32,7 +37,9 @@ function logInfos(user) {
     address: { city, country },
   } = user; // Change here
 
-  console.log(`${user.firstName} ${user.lastName} lives in ${user.adress.city}, ${user.adress.country}.`);
+  const toto = Object.assign({}, redactedUser, user);
+
+  console.log(`${toto.firstName} ${toto.lastName} lives in ${toto.address.city}, ${toto.address.country}.`);
 }
 
 module.exports = {

@@ -12,7 +12,6 @@ const userConfig = {
   },
 };
 const config = getConfig(userConfig);
-console.log(config);
 
 logInfos({
   firstName: "John",
