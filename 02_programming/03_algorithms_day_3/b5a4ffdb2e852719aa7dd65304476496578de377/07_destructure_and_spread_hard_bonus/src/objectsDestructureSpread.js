@@ -1,4 +1,4 @@
-function getConfig(config) {
+function getConfig(config = {}) {
   const defaultConfig = {
     user: {
       name: "root",
@@ -10,7 +10,8 @@ function getConfig(config) {
       diskSpace: 20,
     },
   };
-  const updatedUser = {
+
+  const user = {
     ...config,
     hardware: {
       ...config.hardware,
@@ -18,10 +19,10 @@ function getConfig(config) {
       diskSpace: 20,
     },
   };
-  return updatedUser;
+  return user;
 }
 
-function logInfos(user) {
+function logInfos(user = {}) {
   const redactedUser = {
     firstName: "<REDACTED>",
     lastName: "<REDACTED>",
@@ -36,10 +37,13 @@ function logInfos(user) {
     lastName,
     address: { city, country },
   } = user; // Change here
-
-  const toto = Object.assign({}, redactedUser, user);
-
-  console.log(`${toto.firstName} ${toto.lastName} lives in ${toto.address.city}, ${toto.address.country}.`);
+  const newUser = {
+    ...user,
+    address: {
+      ...user.address,
+    },
+  };
+  console.log(`${newUser.firstName} ${newUser.lastName} lives in ${newUser.address.city}, ${newUser.address.country}.`);
 }
 
 module.exports = {
