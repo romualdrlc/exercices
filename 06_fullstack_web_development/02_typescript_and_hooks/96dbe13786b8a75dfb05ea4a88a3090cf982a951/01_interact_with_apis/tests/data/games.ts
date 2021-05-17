@@ -33,24 +33,19 @@ export const ps4Games: Game[] = [
     rating_count: 1203,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/fn1wbuvikoacxt4zvfxl.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/fn1wbuvikoacxt4zvfxl.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/b41umzxjcehm8fozl3gf.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/b41umzxjcehm8fozl3gf.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/tqt0sxjytiovh3g96cl0.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/tqt0sxjytiovh3g96cl0.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/rtu8k7vm5x4mw5hilh2z.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/rtu8k7vm5x4mw5hilh2z.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/qwytrspu8brvow9x9y15.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/qwytrspu8brvow9x9y15.jpg",
       },
     ],
     slug: "uncharted-4-a-thief-s-end",
@@ -88,8 +83,7 @@ export const ps4Games: Game[] = [
     rating_count: 36,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/on5ururozxd8tdawdoen.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/on5ururozxd8tdawdoen.jpg",
       },
       {
         url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc69bk.jpg",
@@ -136,16 +130,13 @@ export const ps4Games: Game[] = [
     rating_count: 38,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/s5rotaehts0fqxisfcum.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/s5rotaehts0fqxisfcum.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/li7jrrnmcxbymplsr6vw.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/li7jrrnmcxbymplsr6vw.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/cnee7nhvldx9wyvfwgur.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/cnee7nhvldx9wyvfwgur.jpg",
       },
     ],
     slug: "uncharted-drakes-fortune-remastered",
@@ -183,8 +174,7 @@ export const ps4Games: Game[] = [
     rating_count: 32,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ikajnzvqtohdnhiwigve.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ikajnzvqtohdnhiwigve.jpg",
       },
       {
         url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc69br.jpg",
@@ -232,32 +222,25 @@ export const ps4Games: Game[] = [
     rating_count: 281,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/oh8a5shtmdbqx73cv765.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/oh8a5shtmdbqx73cv765.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/rqr5dxxw97zikyhdn2tq.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/rqr5dxxw97zikyhdn2tq.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/mobc8z5fnxljhadccvy6.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/mobc8z5fnxljhadccvy6.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/kazgjykzu18dhqjpspko.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/kazgjykzu18dhqjpspko.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/rdonk4uvyh8ijanrbs46.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/rdonk4uvyh8ijanrbs46.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/dbqn4wax78tgvplrpf1m.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/dbqn4wax78tgvplrpf1m.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/mmenctgbvassqs1uepax.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/mmenctgbvassqs1uepax.jpg",
       },
       {
         url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8i93.jpg",
@@ -314,24 +297,19 @@ export const ps4Games: Game[] = [
     rating_count: 662,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/wdzisarwedjsqeg5iah4.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/wdzisarwedjsqeg5iah4.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/oz4rxwu528bmckp1qqzt.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/oz4rxwu528bmckp1qqzt.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/d64boffz2tkso1cuj1lk.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/d64boffz2tkso1cuj1lk.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/lqz37tmv2r4lcjaxczwx.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/lqz37tmv2r4lcjaxczwx.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/iqzfweidhwepz0bf4fhr.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/iqzfweidhwepz0bf4fhr.jpg",
       },
     ],
     slug: "the-last-of-us-remastered",
@@ -433,52 +411,40 @@ export const ps4Games: Game[] = [
     rating_count: 1101,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/qseegzssgetrybgbplrv.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/qseegzssgetrybgbplrv.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/rm35ytrytuka9qkylqyk.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/rm35ytrytuka9qkylqyk.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ywrkjcrbeemmb51flsfj.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ywrkjcrbeemmb51flsfj.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/jvdoaxza3cawklvof1sl.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/jvdoaxza3cawklvof1sl.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/gpt3d0gpue5mat4kkso6.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/gpt3d0gpue5mat4kkso6.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/mzg7f3xx57sf8rt7tja8.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/mzg7f3xx57sf8rt7tja8.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/nee23o7rtpaqbu8g7byx.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/nee23o7rtpaqbu8g7byx.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/o4mg2wvhlcikaogvvzqe.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/o4mg2wvhlcikaogvvzqe.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/w5eazrrf4wdxjl4idfya.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/w5eazrrf4wdxjl4idfya.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/s2zdtxopibrfjbxvpj5h.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/s2zdtxopibrfjbxvpj5h.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/wunlbofh23trw0u67gms.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/wunlbofh23trw0u67gms.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/r7hpzsqic1bjwyzn1bnq.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/r7hpzsqic1bjwyzn1bnq.jpg",
       },
     ],
     slug: "god-of-war--1",
@@ -520,24 +486,19 @@ export const ps4Games: Game[] = [
     rating_count: 61,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/dgjpvcrpkeeqetrkzzfz.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/dgjpvcrpkeeqetrkzzfz.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/dejvzcjimmnq9ay2lzju.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/dejvzcjimmnq9ay2lzju.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/rlbusmby8zlziuyq0yqt.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/rlbusmby8zlziuyq0yqt.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/pcaociesn3spuvsdu5mr.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/pcaociesn3spuvsdu5mr.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/vjpxhf0vqgbumm1vixiw.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/vjpxhf0vqgbumm1vixiw.jpg",
       },
     ],
     slug: "god-of-war-iii-remastered",
@@ -579,24 +540,19 @@ export const ps4Games: Game[] = [
     rating_count: 783,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/adssvwsfbaxcrucjolv9.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/adssvwsfbaxcrucjolv9.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/bklmdxphzoflbgtushg0.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/bklmdxphzoflbgtushg0.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/uqmif3sshdrbbcd0pu8l.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/uqmif3sshdrbbcd0pu8l.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/hc9nb80b0xni5wxm5zh3.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/hc9nb80b0xni5wxm5zh3.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/aokcsspzrqyaaoug7jnn.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/aokcsspzrqyaaoug7jnn.jpg",
       },
     ],
     slug: "bloodborne",
@@ -779,24 +735,19 @@ export const ps4Games: Game[] = [
     rating_count: 370,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/vqphwdpqcsk0yvo8sbhu.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/vqphwdpqcsk0yvo8sbhu.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/xxta3pauqxscx89ou887.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/xxta3pauqxscx89ou887.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/fev4okgev4xmxdogdwdf.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/fev4okgev4xmxdogdwdf.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/yrhcvy88atrfuhfshj2b.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/yrhcvy88atrfuhfshj2b.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/wklmdcc9vn93257yjg1c.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/wklmdcc9vn93257yjg1c.jpg",
       },
     ],
     slug: "fortnite",
@@ -847,24 +798,19 @@ export const ps4Games: Game[] = [
     rating_count: 718,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/xcyoi025lvvwnnrdargv.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/xcyoi025lvvwnnrdargv.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/qyardon47coclwtjfwwr.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/qyardon47coclwtjfwwr.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/bpcshm1ryzyf4nwu0rkt.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/bpcshm1ryzyf4nwu0rkt.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/aq1xangaqzrlhgetcrop.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/aq1xangaqzrlhgetcrop.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ao0jpev6qtvqlftjlhv5.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ao0jpev6qtvqlftjlhv5.jpg",
       },
     ],
     slug: "overwatch",
@@ -919,52 +865,40 @@ export const ps4Games: Game[] = [
     rating_count: 270,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/styvbfgi3wldnbkn8ryw.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/styvbfgi3wldnbkn8ryw.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/m3f6mp4xqamxyfo03ee4.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/m3f6mp4xqamxyfo03ee4.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/qybtpmtbu9acshapk8is.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/qybtpmtbu9acshapk8is.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ixduabbobqdjnsini0od.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ixduabbobqdjnsini0od.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/fztajtk1l9o4st10tsrv.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/fztajtk1l9o4st10tsrv.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/e8qytounfoctqic0d8pe.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/e8qytounfoctqic0d8pe.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/j7r0sayrtc1hhvtvgd1g.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/j7r0sayrtc1hhvtvgd1g.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/dny8nmqgpvm7ao2muywg.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/dny8nmqgpvm7ao2muywg.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ca0hs7x59axchd9r9ptn.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ca0hs7x59axchd9r9ptn.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/mrfbbzfjcbeonvqz1yzq.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/mrfbbzfjcbeonvqz1yzq.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/gmy55fao0ncliz7l6lrf.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/gmy55fao0ncliz7l6lrf.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/pt8uw2ofbiox6rk2bvtw.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/pt8uw2ofbiox6rk2bvtw.jpg",
       },
     ],
     slug: "the-witness",
@@ -1015,24 +949,19 @@ export const ps4Games: Game[] = [
     rating_count: 2128,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/muv70yw3rds1cw8ymr5v.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/muv70yw3rds1cw8ymr5v.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/xzk2h41fiye7uwbhc6ub.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/xzk2h41fiye7uwbhc6ub.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/urqw7ltwmhr39gkidsih.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/urqw7ltwmhr39gkidsih.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/t0mus35qrgclafo1ql8k.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/t0mus35qrgclafo1ql8k.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/x5bbaqvgbpaz4hzlfeqb.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/x5bbaqvgbpaz4hzlfeqb.jpg",
       },
     ],
     slug: "the-elder-scrolls-v-skyrim",
@@ -1044,10 +973,8 @@ export const ps4Games: Game[] = [
   },
   {
     cover: {
-      thumbnail:
-        "//images.igdb.com/igdb/image/upload/t_thumb/xrpmydnu9rpxvxfjkiu7.jpg",
-      url:
-        "//images.igdb.com/igdb/image/upload/t_cover_small_2x/xrpmydnu9rpxvxfjkiu7.jpg",
+      thumbnail: "//images.igdb.com/igdb/image/upload/t_thumb/xrpmydnu9rpxvxfjkiu7.jpg",
+      url: "//images.igdb.com/igdb/image/upload/t_cover_small_2x/xrpmydnu9rpxvxfjkiu7.jpg",
     },
     first_release_date: 1456444800,
     genres: [
@@ -1089,24 +1016,19 @@ export const ps4Games: Game[] = [
     rating_count: 543,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/rhxs1x9w5hf5kde2osf5.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/rhxs1x9w5hf5kde2osf5.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/sw7rtba7p1xs77klsime.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sw7rtba7p1xs77klsime.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/iwswpvxa9ytrpk8yjcyx.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/iwswpvxa9ytrpk8yjcyx.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ak7zmag7zztpqha1jjde.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ak7zmag7zztpqha1jjde.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/g1aakqbkp2quq0krqeky.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/g1aakqbkp2quq0krqeky.jpg",
       },
     ],
     slug: "stardew-valley",
@@ -1210,8 +1132,7 @@ export const switchGames: Game[] = [
         slug: "indie",
       },
     ],
-    name:
-      "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+    name: "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
     platforms: [
       {
         name: "Nintendo Switch",
@@ -1242,14 +1163,12 @@ export const switchGames: Game[] = [
         url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lp2.jpg",
       },
     ],
-    slug:
-      "cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
+    slug: "cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
     summary:
       "In the latest rhythmic action-adventure from Brace Yourself Games, you can enjoy the gameplay of Crypt of the NecroDancer in the setting of The Legend of Zelda series. As Link – or even as Princess Zelda – you’ll explore the randomly generated overworld and dungeons on a quest to save Hyrule. Every beat of each remixed The Legend of Zelda tune is a chance to move, attack, defend, and more, so stay one step ahead of each enemy and boss…or face the music.",
     total_rating: 76.43507967385031,
     total_rating_count: 28,
-    url:
-      "https://www.igdb.com/games/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
+    url: "https://www.igdb.com/games/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
   },
   {
     cover: {
@@ -1285,59 +1204,46 @@ export const switchGames: Game[] = [
     ],
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/vbs1btl6ts17zeos4g5v.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/vbs1btl6ts17zeos4g5v.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/tjlglyti9pi4cowyiact.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/tjlglyti9pi4cowyiact.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/djytg7kqip9d5dgekfew.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/djytg7kqip9d5dgekfew.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ngyp9tw3elpfdngwc00i.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ngyp9tw3elpfdngwc00i.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/mepn5qujlccdlkhfkwr8.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/mepn5qujlccdlkhfkwr8.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/bf4ag3vxlfnv0nhhplga.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/bf4ag3vxlfnv0nhhplga.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/qoytovwmzj70nufwxb2r.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/qoytovwmzj70nufwxb2r.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/mftmubfp9ntwbreejfi7.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/mftmubfp9ntwbreejfi7.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/eirwofgnucvx7h87svr2.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/eirwofgnucvx7h87svr2.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/gcdqd20hi1wgmguu3reg.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/gcdqd20hi1wgmguu3reg.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ayjm7juog9vitiwbfrcz.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ayjm7juog9vitiwbfrcz.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ods1wksjfo9h0v7fpigo.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ods1wksjfo9h0v7fpigo.jpg",
       },
     ],
     slug: "the-legend-of-zelda-breath-of-the-wild",
     summary:
       "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking game in the acclaimed series. The limited edition contains the game (Nintendo Switch version), The Legend of Zelda: Breath of the Wild Sound Selection CD and a Master Sword of Resurrection figurine.",
-    url:
-      "https://www.igdb.com/games/the-legend-of-zelda-breath-of-the-wild-limited-edition--1",
+    url: "https://www.igdb.com/games/the-legend-of-zelda-breath-of-the-wild-limited-edition--1",
   },
   {
     cover: {
@@ -1442,52 +1348,40 @@ export const switchGames: Game[] = [
     rating_count: 207,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/xdzg7620kqx6i4zkm4tp.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/xdzg7620kqx6i4zkm4tp.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/vmhgawm7zlvd8qqmk8ya.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/vmhgawm7zlvd8qqmk8ya.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/isnqp0khpg87nfpssd5k.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/isnqp0khpg87nfpssd5k.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/qoh5zyyom9pt9sfiu1vv.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/qoh5zyyom9pt9sfiu1vv.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/bvpqncieyfptsjncuwbf.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/bvpqncieyfptsjncuwbf.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/e7lig4czwkoyoqblh6zf.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/e7lig4czwkoyoqblh6zf.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/sjmvyyxrudwmpfps77rt.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sjmvyyxrudwmpfps77rt.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/kjexiacfocg6wrz0cdbs.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/kjexiacfocg6wrz0cdbs.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/k25mvvrzl2ko8rnjdpz7.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/k25mvvrzl2ko8rnjdpz7.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/niwpbmiwgkuuep26jz0a.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/niwpbmiwgkuuep26jz0a.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/widay9y9r9nqelxu7spw.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/widay9y9r9nqelxu7spw.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/uwi7duel81c43tikqeup.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/uwi7duel81c43tikqeup.jpg",
       },
     ],
     slug: "mario-kart-8-deluxe",
@@ -1525,20 +1419,16 @@ export const switchGames: Game[] = [
     rating_count: 411,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/poy3a7v02a5g1wg4usfq.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/poy3a7v02a5g1wg4usfq.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/notn8ahnbkglatmokc86.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/notn8ahnbkglatmokc86.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/mi0pns4kpvku1mt9rj3c.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/mi0pns4kpvku1mt9rj3c.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/mx0rezw9cvublfnbjalm.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/mx0rezw9cvublfnbjalm.jpg",
       },
       {
         url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5rl5.jpg",
@@ -1663,52 +1553,40 @@ export const switchGames: Game[] = [
     rating_count: 77,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/dh1tkaotkbtyh978mtag.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/dh1tkaotkbtyh978mtag.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/bctz4zjros0pizflz4ha.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/bctz4zjros0pizflz4ha.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/fgk6jtffidxsn8ovtbqu.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/fgk6jtffidxsn8ovtbqu.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/syug9kgrtmuqynmu7uqg.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/syug9kgrtmuqynmu7uqg.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/sj98v0eoqxxzgalf9mn4.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sj98v0eoqxxzgalf9mn4.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/rnljjizxuo9odqvvhlw1.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/rnljjizxuo9odqvvhlw1.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/vh11ez90tgswhzx6ckys.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/vh11ez90tgswhzx6ckys.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/t0jlovq2gc9ghvsyvpgt.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/t0jlovq2gc9ghvsyvpgt.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/sgo07t9nja0uzcrldgn9.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sgo07t9nja0uzcrldgn9.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/jfhbbr87x3fac1qnukor.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/jfhbbr87x3fac1qnukor.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/jesopvenn0grenqh0tr7.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/jesopvenn0grenqh0tr7.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ojrkfd7qcb2rakrvrddo.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ojrkfd7qcb2rakrvrddo.jpg",
       },
     ],
     slug: "xenoblade-chronicles-2",
@@ -1770,10 +1648,8 @@ export const switchGames: Game[] = [
   },
   {
     cover: {
-      thumbnail:
-        "//images.igdb.com/igdb/image/upload/t_thumb/m0l4ma2qdh7z2m5o6m5l.jpg",
-      url:
-        "//images.igdb.com/igdb/image/upload/t_cover_small_2x/m0l4ma2qdh7z2m5o6m5l.jpg",
+      thumbnail: "//images.igdb.com/igdb/image/upload/t_thumb/m0l4ma2qdh7z2m5o6m5l.jpg",
+      url: "//images.igdb.com/igdb/image/upload/t_cover_small_2x/m0l4ma2qdh7z2m5o6m5l.jpg",
     },
     first_release_date: 1503619200,
     genres: [
@@ -1802,48 +1678,37 @@ export const switchGames: Game[] = [
     rating_count: 13,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/gzwj7vjsf6nm3wwguwni.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/gzwj7vjsf6nm3wwguwni.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/fj9k5arjf5iewxosqo4v.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/fj9k5arjf5iewxosqo4v.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/jhzyq7pc6kfpgi7nrr0o.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/jhzyq7pc6kfpgi7nrr0o.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/hpqfcwff4hkokqftewos.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/hpqfcwff4hkokqftewos.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/amgmfldyn0cwtebjtenj.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/amgmfldyn0cwtebjtenj.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/n9jikwicn64quiltps6o.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/n9jikwicn64quiltps6o.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/yclsidxspm59tfbqzdrb.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/yclsidxspm59tfbqzdrb.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/heaq0emejcfii281djmw.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/heaq0emejcfii281djmw.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ly4vwylafc8px6tit1qc.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ly4vwylafc8px6tit1qc.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/grsc1ibqorw2u6gezem2.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/grsc1ibqorw2u6gezem2.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/uec3qqsodvgwdvrs2s4u.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/uec3qqsodvgwdvrs2s4u.jpg",
       },
     ],
     slug: "monster-hunter-generations-ultimate",
@@ -1982,24 +1847,19 @@ export const switchGames: Game[] = [
     rating_count: 370,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/vqphwdpqcsk0yvo8sbhu.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/vqphwdpqcsk0yvo8sbhu.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/xxta3pauqxscx89ou887.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/xxta3pauqxscx89ou887.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/fev4okgev4xmxdogdwdf.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/fev4okgev4xmxdogdwdf.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/yrhcvy88atrfuhfshj2b.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/yrhcvy88atrfuhfshj2b.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/wklmdcc9vn93257yjg1c.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/wklmdcc9vn93257yjg1c.jpg",
       },
     ],
     slug: "fortnite",
@@ -2050,24 +1910,19 @@ export const switchGames: Game[] = [
     rating_count: 718,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/xcyoi025lvvwnnrdargv.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/xcyoi025lvvwnnrdargv.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/qyardon47coclwtjfwwr.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/qyardon47coclwtjfwwr.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/bpcshm1ryzyf4nwu0rkt.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/bpcshm1ryzyf4nwu0rkt.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/aq1xangaqzrlhgetcrop.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/aq1xangaqzrlhgetcrop.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ao0jpev6qtvqlftjlhv5.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ao0jpev6qtvqlftjlhv5.jpg",
       },
     ],
     slug: "overwatch",
@@ -2122,52 +1977,40 @@ export const switchGames: Game[] = [
     rating_count: 270,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/styvbfgi3wldnbkn8ryw.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/styvbfgi3wldnbkn8ryw.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/m3f6mp4xqamxyfo03ee4.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/m3f6mp4xqamxyfo03ee4.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/qybtpmtbu9acshapk8is.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/qybtpmtbu9acshapk8is.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ixduabbobqdjnsini0od.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ixduabbobqdjnsini0od.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/fztajtk1l9o4st10tsrv.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/fztajtk1l9o4st10tsrv.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/e8qytounfoctqic0d8pe.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/e8qytounfoctqic0d8pe.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/j7r0sayrtc1hhvtvgd1g.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/j7r0sayrtc1hhvtvgd1g.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/dny8nmqgpvm7ao2muywg.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/dny8nmqgpvm7ao2muywg.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ca0hs7x59axchd9r9ptn.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ca0hs7x59axchd9r9ptn.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/mrfbbzfjcbeonvqz1yzq.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/mrfbbzfjcbeonvqz1yzq.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/gmy55fao0ncliz7l6lrf.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/gmy55fao0ncliz7l6lrf.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/pt8uw2ofbiox6rk2bvtw.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/pt8uw2ofbiox6rk2bvtw.jpg",
       },
     ],
     slug: "the-witness",
@@ -2218,24 +2061,19 @@ export const switchGames: Game[] = [
     rating_count: 2128,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/muv70yw3rds1cw8ymr5v.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/muv70yw3rds1cw8ymr5v.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/xzk2h41fiye7uwbhc6ub.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/xzk2h41fiye7uwbhc6ub.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/urqw7ltwmhr39gkidsih.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/urqw7ltwmhr39gkidsih.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/t0mus35qrgclafo1ql8k.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/t0mus35qrgclafo1ql8k.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/x5bbaqvgbpaz4hzlfeqb.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/x5bbaqvgbpaz4hzlfeqb.jpg",
       },
     ],
     slug: "the-elder-scrolls-v-skyrim",
@@ -2247,10 +2085,8 @@ export const switchGames: Game[] = [
   },
   {
     cover: {
-      thumbnail:
-        "//images.igdb.com/igdb/image/upload/t_thumb/xrpmydnu9rpxvxfjkiu7.jpg",
-      url:
-        "//images.igdb.com/igdb/image/upload/t_cover_small_2x/xrpmydnu9rpxvxfjkiu7.jpg",
+      thumbnail: "//images.igdb.com/igdb/image/upload/t_thumb/xrpmydnu9rpxvxfjkiu7.jpg",
+      url: "//images.igdb.com/igdb/image/upload/t_cover_small_2x/xrpmydnu9rpxvxfjkiu7.jpg",
     },
     first_release_date: 1456444800,
     genres: [
@@ -2292,24 +2128,19 @@ export const switchGames: Game[] = [
     rating_count: 543,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/rhxs1x9w5hf5kde2osf5.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/rhxs1x9w5hf5kde2osf5.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/sw7rtba7p1xs77klsime.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sw7rtba7p1xs77klsime.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/iwswpvxa9ytrpk8yjcyx.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/iwswpvxa9ytrpk8yjcyx.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ak7zmag7zztpqha1jjde.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ak7zmag7zztpqha1jjde.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/g1aakqbkp2quq0krqeky.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/g1aakqbkp2quq0krqeky.jpg",
       },
     ],
     slug: "stardew-valley",
@@ -2354,24 +2185,19 @@ export const xboxGames: Game[] = [
     rating_count: 142,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/nnelew7ho3kgrjqcuvxb.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/nnelew7ho3kgrjqcuvxb.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/se2jirr9zac2ac1jwnxe.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/se2jirr9zac2ac1jwnxe.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/murhcqwamhua3i24u43l.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/murhcqwamhua3i24u43l.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/gbauz25dnqerjflndb2r.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/gbauz25dnqerjflndb2r.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ovwainfhs2tof6aod0or.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ovwainfhs2tof6aod0or.jpg",
       },
     ],
     slug: "fable-ii",
@@ -2416,24 +2242,19 @@ export const xboxGames: Game[] = [
     rating_count: 1,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/ujjc4bke945ntrboduec.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/ujjc4bke945ntrboduec.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/l0nxy9zsqrbz6oswdqbd.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/l0nxy9zsqrbz6oswdqbd.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/zjfotcop0oih5wqnbrlg.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/zjfotcop0oih5wqnbrlg.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/v35jciqarzpilw8nhbe5.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/v35jciqarzpilw8nhbe5.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/uxstzqlsp5yq51fecyhh.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/uxstzqlsp5yq51fecyhh.jpg",
       },
     ],
     slug: "fable-the-journey",
@@ -2448,10 +2269,8 @@ export const xboxGames: Game[] = [
       $oid: "5f86f414306a50611379ee20",
     },
     cover: {
-      thumbnail:
-        "//images.igdb.com/igdb/image/upload/t_thumb/knh7dmnlhkb8l4rvggut.jpg",
-      url:
-        "//images.igdb.com/igdb/image/upload/t_cover_small_2x/knh7dmnlhkb8l4rvggut.jpg",
+      thumbnail: "//images.igdb.com/igdb/image/upload/t_thumb/knh7dmnlhkb8l4rvggut.jpg",
+      url: "//images.igdb.com/igdb/image/upload/t_cover_small_2x/knh7dmnlhkb8l4rvggut.jpg",
     },
     first_release_date: 1193270400,
     genres: [
@@ -2512,24 +2331,19 @@ export const xboxGames: Game[] = [
     rating_count: 248,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/v4t5lxcbjcwz6wssctg6.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/v4t5lxcbjcwz6wssctg6.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/xrkt3gnqedisrtuhgnhd.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/xrkt3gnqedisrtuhgnhd.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/hi48uwrlxqxlg9z4thel.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/hi48uwrlxqxlg9z4thel.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/fde5mbwk0tuqwdllgdwq.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/fde5mbwk0tuqwdllgdwq.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/hmsmlnonm3bsmvs3w5eh.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/hmsmlnonm3bsmvs3w5eh.jpg",
       },
     ],
     slug: "gears-of-war-2",
@@ -2570,24 +2384,19 @@ export const xboxGames: Game[] = [
     rating_count: 186,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/m3zk1qe18wrm4dymwchs.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/m3zk1qe18wrm4dymwchs.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/fioqfi33rtjwmhrnd3ci.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/fioqfi33rtjwmhrnd3ci.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/mg0lugxfomajsrfw4twa.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/mg0lugxfomajsrfw4twa.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/phbrtx8udp3icuqfsno5.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/phbrtx8udp3icuqfsno5.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/uyiwlcqgiekcv5grgz8c.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/uyiwlcqgiekcv5grgz8c.jpg",
       },
     ],
     slug: "gears-of-war-3",
@@ -2628,24 +2437,19 @@ export const xboxGames: Game[] = [
     rating_count: 79,
     screenshots: [
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/vxo128dug6ym584fsjvg.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/vxo128dug6ym584fsjvg.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/tdamkq2lojapk44gxirt.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/tdamkq2lojapk44gxirt.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/sthjxc7nyiscjnrjye2r.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/sthjxc7nyiscjnrjye2r.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/bhbr2vraumv41vmsyxmp.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/bhbr2vraumv41vmsyxmp.jpg",
       },
       {
-        url:
-          "//images.igdb.com/igdb/image/upload/t_screenshot_big/lpv1up8pebs1rzrmn77f.jpg",
+        url: "//images.igdb.com/igdb/image/upload/t_screenshot_big/lpv1up8pebs1rzrmn77f.jpg",
       },
     ],
     slug: "gears-of-war-judgment",
