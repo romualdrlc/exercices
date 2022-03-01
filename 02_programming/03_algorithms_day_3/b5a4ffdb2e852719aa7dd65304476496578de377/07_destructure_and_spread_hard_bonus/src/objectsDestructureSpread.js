@@ -32,17 +32,19 @@ function logInfos(user = {}) {
     },
   };
 
-  let {
+  const {
     firstName,
     lastName,
     address: { city, country },
-  } = user; // Change here
+  } = { ...redactedUser, user };
+
   const newUser = {
-    ...user,
+    ...redactedUser,
     address: {
       ...user.address,
     },
   };
+
   console.log(`${newUser.firstName} ${newUser.lastName} lives in ${newUser.address.city}, ${newUser.address.country}.`);
 }
 
