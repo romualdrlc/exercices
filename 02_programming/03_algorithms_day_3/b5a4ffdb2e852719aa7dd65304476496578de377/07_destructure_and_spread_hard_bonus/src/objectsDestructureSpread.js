@@ -36,11 +36,13 @@ function logInfos(user = {}) {
     firstName,
     lastName,
     address: { city, country },
-  } = { ...redactedUser, user };
+  } = { ...redactedUser, ...user };
 
   const newUser = {
     ...redactedUser,
+    ...user,
     address: {
+      ...redactedUser.address,
       ...user.address,
     },
   };
