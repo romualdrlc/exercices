@@ -7,11 +7,11 @@ const developer = {
   maxDelay: Number,
 
   initiateProject: function () {
-    console.log("test dans la methode avant", this.isCoding);
-    this.isCoding = false;
+    this.isCoding = true;
     this.daysCoding = 0;
     this.codeLinesProduced = 0;
-    console.log("test dans la methode apres", this.isCoding);
+    this.linesNeeded = 0;
+    return this;
   },
 };
 
