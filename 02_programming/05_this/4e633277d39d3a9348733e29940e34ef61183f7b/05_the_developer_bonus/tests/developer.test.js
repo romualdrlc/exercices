@@ -1,5 +1,5 @@
 const { developer } = require("../src/developer");
-const { expectMessage } = require ("camp2-helpers");
+const { expectMessage } = require("camp2-helpers");
 
 describe("Developer", () => {
   test("The developer should not be coding before starting a project", () => {
@@ -17,8 +17,6 @@ describe("Developer", () => {
     const linesNeeded = testDeveloper.linesNeeded;
     const maxDelay = testDeveloper.maxDelay;
 
-
-
     expect(codeLinesProduced).toBe(0);
     expect(daysCoding).toBe(0);
     expect(linesNeeded).toBe(0);
@@ -30,7 +28,7 @@ describe("Developer", () => {
 
     const projectStatus = testDeveloper.projectStatus;
     expect(projectStatus.match(/waiting for a project/i)).toBeTruthy();
-  })
+  });
 
   describe("#initiateProject", () => {
     test("initiateProject should be a function", () => {
@@ -39,7 +37,7 @@ describe("Developer", () => {
 
     test("It should make the dev start coding", () => {
       const testDeveloper = {
-        ...developer
+        ...developer,
       };
       testDeveloper.initiateProject();
       expect(testDeveloper.isCoding).toBe(true);
@@ -63,7 +61,7 @@ describe("Developer", () => {
     test("startProject should be a function", () => {
       const testDeveloper = {
         ...developer,
-      }
+      };
       expect(typeof testDeveloper.startProject).toBe("function");
     });
 
@@ -73,9 +71,17 @@ describe("Developer", () => {
       };
 
       testDeveloper.startProject(90, 400);
-      
-      expectMessage(testDeveloper.linesNeeded, "it should change the linesNeeded by the value you give to the function for this parameter", "warning").toBe(90);
-      expectMessage(testDeveloper.maxDelay, "it should change the maxDelay by the value you give to the function for this parameter", "warning").toBe(400);
+
+      expectMessage(
+        testDeveloper.linesNeeded,
+        "it should change the linesNeeded by the value you give to the function for this parameter",
+        "warning",
+      ).toBe(90);
+      expectMessage(
+        testDeveloper.maxDelay,
+        "it should change the maxDelay by the value you give to the function for this parameter",
+        "warning",
+      ).toBe(400);
     });
 
     test("It should return the developer", () => {
@@ -83,30 +89,28 @@ describe("Developer", () => {
         ...developer,
       };
 
-      expect(testDeveloper.startProject(130, 100)).not.toBe(undefined)
+      expect(testDeveloper.startProject(130, 100)).not.toBe(undefined);
     });
-  })
+  });
   describe("#codeForOneDay", () => {
     test("The developer should write 2 lines of code per day when he generates no bug", () => {
-      jest.spyOn(Math, 'random').mockReturnValue(0.10);
+      jest.spyOn(Math, "random").mockReturnValue(0.1);
 
       const codeLinesProduced = 70;
       const testDeveloper = {
         ...developer,
         codeLinesProduced,
-      }
+      };
 
       testDeveloper.codeForOneDay();
 
-
       expect(testDeveloper.codeLinesProduced).toBe(codeLinesProduced + 2);
 
-
-      jest.spyOn(Math, 'random').mockRestore();
+      jest.spyOn(Math, "random").mockRestore();
     });
 
     test("The developer should spend 3 days without coding when he generates a bug", () => {
-      jest.spyOn(Math, 'random').mockReturnValue(0.09);
+      jest.spyOn(Math, "random").mockReturnValue(0.09);
 
       const codeLinesProduced = 147;
       const daysCoding = 100;
@@ -116,16 +120,15 @@ describe("Developer", () => {
         isCoding,
         codeLinesProduced,
         daysCoding,
-      }
+      };
 
       testDeveloper.codeForOneDay();
 
-
       expect(testDeveloper.daysCoding).toBe(daysCoding + 3);
 
-      jest.spyOn(Math, 'random').mockRestore();
+      jest.spyOn(Math, "random").mockRestore();
     });
-  })
+  });
 
   describe("#mightStop", () => {
     test("The developer should stop coding & the project status should be 'project stopped' if he goes beyond the delay", () => {
@@ -140,7 +143,7 @@ describe("Developer", () => {
 
       expect(testDeveloper.isCoding).toBe(false);
       expect(testDeveloper.projectStatus).toBe("project stopped");
-    })
+    });
 
     test("The developer should stop coding & the project status should be 'project finished' if he has done the code needed during the delay", () => {
       const testDeveloper = {
@@ -156,6 +159,6 @@ describe("Developer", () => {
 
       expect(testDeveloper.isCoding).toBe(false);
       expect(testDeveloper.projectStatus).toBe("project finished");
-    })
-  })
+    });
+  });
 });

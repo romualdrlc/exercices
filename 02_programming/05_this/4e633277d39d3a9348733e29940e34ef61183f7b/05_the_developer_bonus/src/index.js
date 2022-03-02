@@ -1,3 +1,8 @@
 const developer = require("./developer");
 
-// console.log(developer.startProject(130, 100));
+console.log("test avant", developer.isCoding);
+
+developer.initiateProject();
+console.log("test apres", developer.isCoding);
+
+//console.log(developer.startProject(130, 100));
