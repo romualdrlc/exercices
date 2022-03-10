@@ -1,4 +1,4 @@
-const { developer } = require("../src/developer");
+const developer = require("../src/developer");
 const { expectMessage } = require("camp2-helpers");
 
 describe("Developer", () => {
