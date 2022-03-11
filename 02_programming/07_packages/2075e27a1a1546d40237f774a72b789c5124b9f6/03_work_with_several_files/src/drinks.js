@@ -1,21 +1,15 @@
 // There should be no import in this file. Only exports!
 
-let quantityOfCup = 0;
+let totalRecipient = 0;
 
+function longCoffee(longCoffe) {
+  totalRecipient += longCoffe;
+  return totalRecipient;
+}
 
-function longCoffee(oneLongCoffe) {
-  return 0.15;
-};
-
-function expresso(oneExpresso) {
-  return 0.8;
-};
-
+function expresso(expresso) {
+  totalRecipient += expresso;
+  return totalRecipient;
+}
 
 export { longCoffee, expresso };
-
-
-
-
-
-

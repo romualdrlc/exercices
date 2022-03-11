@@ -2,34 +2,22 @@
 import { longCoffee, expresso } from "./drinks.js";
 import { putLitersOfCoffee, consumeLitersOfCoffee } from "./container.js";
 
-let litersOfCoffee = 0;
-let quantityOfCup =0;
+let consoTotal = 0;
+let cupConsumeExpresso = 0;
+let cupConsumeLongCoffe = 0;
 
 function fillWithLitersOfCoffee(liters) {
-  litersOfCoffee += liters;
-};
+  consoTotal = putLitersOfCoffee(liters);
+  return consoTotal;
+  // cupConsumeExpresso = consumeLitersOfCoffee(expresso);
+  // cupConsumeLongCoffe = consumeLitersOfCoffee(longCoffee);
 
-function serveACup (quantityOfCup) {
-  if (putLitersOfCoffee >= longCoffee) {
-    longCoffee(quantityOfCup);
-    putLitersOfCoffee.coffePut -= quantityOfCup;
-  } else if (putLitersOfCoffee >= expresso) {
-    expresso(quantityOfCup);
-    putLitersOfCoffee.coffePut -= quantityOfCup;
-  } else if (putLitersOfCoffee >= quantityOfCup) {
-    consumeLitersOfCoffee.coffePut -= quantityOfCup;
-    console.log("test romu");
-    return true;
-  } else {
-    return false;
-  };
-};
+  // console.log("consoTotal", cupConsumeExpresso);
+  // console.log("consoTotal", cupConsumeLongCoffe);
+  // while (consoTotal >= cupConsumeExpresso || consoTotal >= cupConsumeLongCoffe) {
+  //   console.log("tututututu");
+  //   return true;
+  // }
+}
 
-function machine() {
-  while (consumeLitersOfCoffee >= quantityOfCup) {
-    return true;
-  };
-};
-
-
-export { fillWithLitersOfCoffee, serveACup, machine, putLitersOfCoffee, expresso, consumeLitersOfCoffee, longCoffee };
+export { fillWithLitersOfCoffee, putLitersOfCoffee, expresso, consumeLitersOfCoffee, longCoffee };
