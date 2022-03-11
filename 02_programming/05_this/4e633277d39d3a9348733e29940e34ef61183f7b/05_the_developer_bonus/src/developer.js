@@ -22,13 +22,22 @@ const developer = {
   },
 
   codeForOneDay() {
-    let bug = Math.floor(Math.random() * (1 - 0)) + 0;
-    console.log("random bug", bug);
+    let bug = Math.random() * 1;
+    console.log("random", bug);
     if (bug === 0) {
       this.codeLinesProduced += 2;
       this.daysCoding += 1;
-    } else if (bug === 1) {
-      this.codeLinesProduced += 0;
+    } else if (bug > 0 && bug <= 0.1) {
+      this.codeLinesProduced += 2;
+      this.daysCoding += 3;
+    } else if (bug > 0.1 && bug <= 0.2) {
+      this.codeLinesProduced += 2;
+      this.daysCoding += 3;
+    } else if (bug > 0.2 && bug <= 0.4) {
+      this.codeLinesProduced += 2;
+      this.daysCoding += 3;
+    } else if (bug > 0.4 || bug === 1) {
+      this.codeLinesProduced += 2;
       this.daysCoding += 3;
     }
     return this;
