@@ -2,13 +2,15 @@
 
 let totalRecipient = 0;
 
-function longCoffee(longCoffe) {
-  totalRecipient += longCoffe;
+function longCoffee(doseCoffe) {
+  totalRecipient += doseCoffe;
+  console.log("totalrecipient23 longcoffe", totalRecipient);
   return totalRecipient;
 }
 
-function expresso(expresso) {
-  totalRecipient += expresso;
+function expresso(doseExpresso) {
+  totalRecipient += doseExpresso;
+  console.log("totalrecipient expresso", totalRecipient);
   return totalRecipient;
 }
 
